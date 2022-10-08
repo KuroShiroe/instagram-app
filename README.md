@@ -24,3 +24,23 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
+
+
+https://user-images.githubusercontent.com/95000458/194680774-27248235-0197-42c3-902c-0f70ce0c4d5a.mp4
+
+
+
+https://user-images.githubusercontent.com/95000458/194680808-2a8c731f-d30a-4f98-9873-5819fa606f5f.mp4
+
+
+
+https://user-images.githubusercontent.com/95000458/194680816-8fd537a3-71e9-4966-9deb-64b1a122535a.mp4
+
+
+
+https://user-images.githubusercontent.com/95000458/194680819-6bc5ef89-7d8c-4339-9c6b-e010029f70b5.mp4
+
+
+
+https://user-images.githubusercontent.com/95000458/194680825-aa14a9b3-96cb-49fe-a75e-4705ccad2a2d.mp4
+
