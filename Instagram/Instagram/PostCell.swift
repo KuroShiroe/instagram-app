@@ -2,7 +2,7 @@
 //  PostCell.swift
 //  Instagram
 //
-//  Created by Priscilla Puglisi on 10/7/22.
+//  Created by Christophera Puglisi on 10/7/22.
 //
 
 import UIKit

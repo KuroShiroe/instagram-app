@@ -2,7 +2,7 @@
 //  LoginViewController.swift
 //  Instagram
 //
-//  Created by Priscilla Puglisi on 10/7/22.
+//  Created by Christopher Puglisi on 10/7/22.
 //
 
 import UIKit
