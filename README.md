@@ -23,6 +23,18 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
+https://user-images.githubusercontent.com/95000458/196305566-09e23a90-3ddb-49c4-a677-61044b059f84.mp4
+
+
+https://user-images.githubusercontent.com/95000458/196305576-76011794-8145-4a0f-82c5-995d00e2e8b2.mp4
+
+
+
+https://user-images.githubusercontent.com/95000458/196305582-71110096-6987-45b5-955a-72315f7051d2.mp4
+
+
+
+
 # Parstagram - Part I
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
